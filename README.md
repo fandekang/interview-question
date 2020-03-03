@@ -8,3 +8,4 @@
 4.请讲一下CSS3动画的优点，你是怎么使用的？  https://blog.csdn.net/qq_43412333/article/details/101013102
 5.请讲一下圣杯布局和双飞翼布局。你还知道哪些布局？  https://www.cnblogs.com/pink-chen/p/10582741.html
 6.如何写宽高自适应的APP？   https://blog.csdn.net/weixin_43606158/article/details/89300534
+7.描述一下渐进增强与优雅降级。https://blog.csdn.net/jnshu_it/article/details/77016996
