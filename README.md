@@ -14,3 +14,8 @@
 10. 请讲一下px，em的区别
   https://blog.csdn.net/qq_32442967/article/details/88553739?depth_1-utm_source=distribute.pc_relevant.none-       task&utm_source=distribute.pc_relevant.none-task
   https://blog.csdn.net/weixin_39464761/article/details/82829057
+11. css有哪些属性可以继承？ https://www.jianshu.com/p/fbfc6c751e34
+12. 浏览器标准模式和怪异模式之间的区别是什么？https://www.jianshu.com/p/7df3cc89ffd0
+13. display 属性有哪些？可以做什么？ https://blog.csdn.net/mzrxLXR/article/details/81697919
+14. return、break和continue的区别   https://blog.csdn.net/weixin_43606158/article/details/94879625
+15. js 常见排序算法
